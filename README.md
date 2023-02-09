@@ -5,5 +5,6 @@ Experience with:
 - HTML/CSS
 - JavaScript
 - Python
+- C++
 
 they/them ...

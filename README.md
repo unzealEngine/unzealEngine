@@ -6,5 +6,3 @@ Experience with:
 - JavaScript
 - Python
 - C++
-
-they/them ...
